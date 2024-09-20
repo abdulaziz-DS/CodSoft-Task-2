@@ -1,4 +1,4 @@
-# CodSoft Task 3: Credit Card Fraud Detection
+# CodSoft Task 2: Credit Card Fraud Detection
 
 ## Overview
 
